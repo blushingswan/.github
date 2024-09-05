@@ -19,8 +19,8 @@ at the Yale School of Management in Fall 2024.
 | 🌐&nbsp;Website         | https://www.656.mba (down sometimes until class begins; requires Yale VPN)                  |
 | 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2024/discussions |
 | 👨‍🏫Faculty                 | Kyle Jensen |
-| 🧑‍🎓TAs                     | Joaqiin Pujol, Brianna Hoelting, Luisa Locatelli |
-| 🤒&nbsp;Excused absences        | 656 form...TBD |
+| 🧑‍🎓TAs                     | Joaquin Pujol, Brianna Hoelting |
+| 🤒&nbsp;Excused absences        | https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXPLVmr3BOOhClWgGsWkBz6NUM1dFODMyRklOVlA4VjlXQ0FPNkxLWVlWTCQlQCN0PWcu&route=shorturl |
 
 
 
@@ -88,9 +88,8 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
-| Luisa Locatelli | luisa.locatelli@yale.edu | TBD | TBD |
-| Joaquin Pujol   | joaquin.pujol@yale.edu | TBD | TBD |
-| Brianna Hoelting | brianna.hoelting@yale.edu | TBD | TBD |
+| Joaquin Pujol   | joaquin.pujol@yale.edu | Monday 4.15pm - 5.15pm | Startup Suite |
+| Brianna Hoelting | brianna.hoelting@yale.edu | Wednesday 1pm - 2pm | Startup Suite |
 
 ## Course Philosophy
 
